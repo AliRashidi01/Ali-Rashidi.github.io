@@ -14,7 +14,7 @@ main:
   # title: "Bio"
    # url: /talks/   
 
-      - title: "CV"
+  - title: "CV"
     url: /cv/
 
   #title: "Teaching"
