@@ -23,7 +23,7 @@ repository               : "AliRashidi01/Ali-Rashidi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile3.png"
+  avatar           : "https://github.com/AliRashidi01/Ali-Rashidi.github.io/blob/master/images/profile.png"
   name             : "Ali Rashidi"
   pronouns         : # example: "she/her"  
   bio              : "Good Economist Wannabe"
