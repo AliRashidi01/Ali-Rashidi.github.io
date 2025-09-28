@@ -21,9 +21,9 @@ repository               : "AliRashidi01/Ali-Rashidi.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author: "Ali-Rashidi"
+author:
   # Biographic information
-  avatar           : "MyPic1.png"
+  avatar           : "profile3.png"
   name             : "Ali Rashidi"
   pronouns         : # example: "she/her"  
   bio              : "Good Economist Wannabe"
